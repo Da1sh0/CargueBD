@@ -1,0 +1,4 @@
+# Ignorar  archivos .Excel
+*.xlsx
+# Ignorar la carpeta Reports
+/Reports/
